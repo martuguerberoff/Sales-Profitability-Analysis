@@ -69,8 +69,3 @@ Desarrollar un modelo analítico integral que permita evaluar el rendimiento com
 * Focalizar esfuerzos comerciales en categorías con mayor rentabilidad.
 * Implementar un seguimiento continuo de KPIs para mejorar la toma de decisiones.
 
----
-
-Si querés después te ayudo a:
-👉 hacer que ambos READMEs tengan el mismo nivel visual (emojis, formato, etc.)
-👉 o a agregar capturas del dashboard para que impacte más todavía (eso suma MUCHÍSIMO)
